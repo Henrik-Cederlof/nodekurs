@@ -18,5 +18,8 @@ export const styles: { [key: string]: string } = {
   gamesHeader: "text-2xl font-bold mb-4 col-span-4 text-center",
   gamesParagraph: "text-center mb-4 col-span-4",
   section: "bg-white p-4 rounded-xl shadow-md flex items-center justify-center h-100 w-75",
+
+  // LOGIN STYLES
+  input: "mb-4 p-2 border text-2xl border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500 w-64",
 };
 
